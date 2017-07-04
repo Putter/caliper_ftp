@@ -1,0 +1,42 @@
+stress is installed
+make is installed
+build-essential is installed
+
+		ERROR-IN-AUTOMATION:linux-tools-generic is not installed properly
+linux-tools-common is installed
+gcc g++ is installed
+nfs-common is installed
+automake is installed
+autoconf is installed
+autogen is installed
+libtool is installed
+openjdk-7-jre is installed
+openjdk-7-jdk is installed
+mysql-server* is installed
+libmysqlclient-dev is installed
+
+		ERROR-IN-AUTOMATION:stress-ng is not installed properly
+expect is installed
+bzr is installed
+libmysqld-dev is installed
+lshw is installed
+bridge-utils is installed
+dmidecode is installed
+
+		ERROR-IN-AUTOMATION:lsdev is not installed properly
+gfortran is installed
+numactl is installed
+unzip is installed
+bc is installed
+lksctp-tools is installed
+dstat is installed
+
+		ERROR-IN-AUTOMATION:gcc-aarch64-linux-gnu is not installed properly
+
+ERROR-IN-AUTOMATION:Creating a Mount Path for Fio testing Failed
+
+
+Mount Partition for storage testing Already exits
+
+
+		ERROR-IN-AUTOMATION:Failed to cp the perf path
